@@ -7,7 +7,7 @@ public class Githubtest {
         String githubToken  = "guvFFFxyz";
         String rsaPrivateKey = "-N .TE KEY-----";
 
-        String testRRN  = "900101-1234567";
+        String testRRN  = "90-1234567";
         String testPhone = "010-1111-5678";
         
         System.out.println("DLP Test Script Execution");
