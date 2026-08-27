@@ -5,7 +5,7 @@ public class Githubtest {
         // DLP Test Credentials & PII
         String awsAccessKey = "AKIAIOSFOsstestEMI/K7MDENG/bPxRfiCYEXAMPLEKEY";
         String githubToken  = "guvFFFxyz";
-        String rsaPrivateKey = "-N RSA PAATEST...KND RSA PRIVATE KEY-----";
+        String rsaPrivateKey = "-N ..A PRIVATE KEY-----";
 
         String testRRN  = "900101-1234567";
         String testPhone = "010-1111-5678";
