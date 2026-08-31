@@ -3,8 +3,8 @@ package github;
 public class Githubtest {
     public static void main(String[] args) {
         // DLP Test Credentials & PII
-        String awsAccessKey = "AKIAIOSFOsstestEMI/K7MDENG/bPxRfiCYEXAMPLEKEY";
-        String githubToken  = "guvFFFxyz";
+        String awsAccessKey = "AKIAIiCYEXAMPLEKEY";
+        String githubToken  = "gu";
         String rsaPrivateKey = "-N .TE KEY-----";
 
         String testRRN  = "90-1234567";
